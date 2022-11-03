@@ -22,6 +22,10 @@ footer {
   color: aqua;
 }
 
+#logo a:visited{
+  color:lightgreen;
+}
+
 header {
   background-color: #263248;
 }
